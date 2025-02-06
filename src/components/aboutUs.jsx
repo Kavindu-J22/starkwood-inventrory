@@ -45,7 +45,7 @@ const AboutUs = () => {
         <Typography variant="h6" sx={{ fontStyle: 'italic', mb: 3, color: 'rgb(247, 232, 144)' }}>
         "Making Every Event Unforgettable!"
         </Typography>
-        <Typography variant="body1" sx={{ mb: 3, color: 'rgb(195, 196, 186)' }}>
+        <Typography variant="body1" sx={{ mb: 3, color: 'rgb(195, 196, 186)', textAlign: 'justify' }}>
         Starkwood is your premier party supply and rental shop in Australia. We offer a wide range of
         high-quality event supplies and rental items to make your special occasions truly remarkable. Whether
         you’re planning a birthday, wedding, corporate event, or any other celebration, we have everything you

@@ -150,9 +150,9 @@ body::before {
   }
 
   .banner .content .author {
-    color: #fff;
+    color: #def8f0;
     padding: 20px;
-    text-shadow: 0 10px 20px #000;
+    text-shadow: 0 10px 30px #000;
     z-index: 2;
     max-width: unset;
     width: 100%;
